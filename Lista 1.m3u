@@ -27,10 +27,18 @@ http://azxtv.com/hls/stream.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY" group-title="varios",Antena Seis TV (720p) [Geo-blocked]
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="Costa Rica",Teletica 7 (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x29e3wg
+#EXTINF:-1 tvg-id="Canal 6"  tvg-logo="https://www.repretel.com/wp-content/uploads/2022/03/logo-repretel.png" group-title="Costa Rica", Canal 6 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+#EXTINF:-1 tvg-id="Canal 11"  tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11-1.png" group-title="Costa Rica", Canal 11 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal 4"  tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4-1.png" group-title="Costa Rica", Canal 4 CR
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="Costa Rica",Teletica 7
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x29e3wg
 #EXTINF:-1 tvg-id="1043" tvg-name="Canal 8" tvg-logo="https://i2.paste.pics/060625379c33c11acc84be7cdc18b4eb.png" group-title="Costa Rica", Canal 8 | CR
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Canal13cr" tvg-logo="https://sicultura-live.s3.amazonaws.com/public/media/sinart_canal_13_1.png" group-title="Costa Rica", Canal 13 CR
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4Xm75sJ.png" group-title="Costa Rica",Canal 14 San Carlos (720p)
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="1053" tvg-name="Colosal TV" tvg-logo="https://i2.paste.pics/ef00f6c7d85171624dff85e2c38fc975.png" group-title="Costa Rica", Colosal TV | CR
@@ -81,7 +89,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bc
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/F69gAWa.png" group-title="Music",Rock TV (480p)
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="NI" tvg-language="" tvg-logo="" group-title="Undefined",La Rock 22
+#EXTINF:-1 tvg-id="" tvg-country="NI" tvg-language="" tvg-logo="" group-title="Music",La Rock 22
 http://138.117.4.70:8075/channel22/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/731c365cab15afcdd35861bb1485c6e4.png" group-title="Music", Rewind Radio y TV * | CL
 https://scl.edge.grupoz.cl/rewindtv/ngrp:live_allhd/playlist.m3u8?PlaylistM3UCL
@@ -95,14 +103,6 @@ https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-id="MexicoTravelChannel.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TnHaCDB.png" group-title="varios",México Travel Channel (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
-#EXTINF:-1 tvg-id="Canal 6"  tvg-logo="https://www.repretel.com/wp-content/uploads/2022/03/logo-repretel.png" group-title="Costa Rica", Canal 6 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
-#EXTINF:-1 tvg-id="Canal 6"  tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11-1.png" group-title="Costa Rica", Canal 6 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal 11"  tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11-1.png" group-title="Costa Rica", Canal 11 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
-#EXTINF:-1 tvg-id="Canal 4"  tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4-1.png" group-title="Costa Rica", Canal 4 CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-id="Best FM"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dghjzgfrd8m7.png" group-title="Costa Rica", Best FM CR
 https://radios-cr.cdn.nedmedia.io/radios/bestfm.m3u8
 #EXTINF:-1 tvg-id="IFCFilmsPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Pelis",IFC Films Picks (1080p)
@@ -127,3 +127,31 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="TopCine.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="Pelis",Top Cine (1080p)
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+#EXTINF:-1 tvg-id="hnhdisc" tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="Premium", Home and health
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt25
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png" group-title="Premium", HBO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/bfcx013
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", discovery channel
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83 
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", investigation discovery
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", history
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/vc_59tt  
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", HBO2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/boatr023n 
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", NATGEO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/rr_995rrr 
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", Cinemax
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cc_x6t8x 
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", Star Channel
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/vkkurt59x  
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", MTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mtb155x MTV
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", TNT
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/gf_01kx
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium",  Space
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nt_023tn
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", axn
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/atc155t
+#EXTINF:-1 tvg-id="hbo" tvg-logo="" group-title="Premium", Las Estrellas
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/22cdmx30tl
