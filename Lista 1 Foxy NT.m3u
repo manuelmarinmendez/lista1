@@ -54,17 +54,16 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="varios", Discovery Turbo
 https://cvi.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="" group-title="pelis", Cinecanal
+#EXTINF:-1 tvg-id="3" tvg-logo="" group-title="Pelis", Cinecanal
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 
-#EXTM3U x-tvg-url="" tv-test="CR.m3u"
 #EXTINF:-1 tvg-id="3" tvg-logo="" group-title="varios", Star
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="varios", History
 https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="pelis", HBO 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Pelis", HBO 2
 https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="varios", Animal planet
@@ -79,11 +78,17 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music", VH-1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="pelis", TNT
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Pelis", TNT
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="pelis", Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Pelis", Cinemax
 https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="" group-title="varios", TBS
+https://cvi.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="" group-title="varios", SyFy
+https://cvi.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Pelis",Rakuten Action Movies Spain (720p)
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
